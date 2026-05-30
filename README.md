@@ -20,7 +20,7 @@ The code works by drawing circular shapes and changing their points using noise.
 
 I chose this piece because I liked how a basic idea, drawing circles, could become much more interesting by adding procedural variation. It helped me understand how noise can be used more for this type of randomness as compared to my previous understanding of it as Minecraft terrain generation.
 
-![noise-circles](D:\University\197191_2026_Creative_Coding\P5-Js\noise-circles.gif)
+![noise-circles](P5-Js/noise-circles.gif)
 
 
 
@@ -38,7 +38,7 @@ The code works by using repeatedly drawing a new rectangle around the center of 
 
 I chose this work because it shows how simple p5.js techniques, such as `translate()`, `rotate()`, repeated drawing, and colour, can create a much more complex visual effect. I also pick it because its one of my favorite outcomes from the "Just messing around" method of seeing "What if I do this".
 
-![Purple Wormhole](D:\University\197191_2026_Creative_Coding\P5-Js\Purple Wormhole.gif)
+![Purple Wormhole](P5-Js/Purple%20Wormhole.gif)
 
 ## Rotating Noise Lines
 
@@ -52,4 +52,4 @@ Rotating Noise Lines is a p5.js script that uses repeated lines, rotation, and n
 
 The code works by drawing lines that are affected by noise values. Instead of every line being placed or shaped in a completely predictable way, the noise changes the movement and position over time with the noise. This makes the final sketch feel more random, because the lines are reacting to the value from the noise.
 
-![noise-grid-rotating-lines](D:\University\197191_2026_Creative_Coding\P5-Js\noise-grid-rotating-lines.gif)
+![noise-grid-rotating-lines](P5-Js/noise-grid-rotating-lines.gif)
