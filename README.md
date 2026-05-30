@@ -1,6 +1,6 @@
 # **My favorite / intriguing outputs:**
 
-
+The TouchDesigner project file containing the selected TouchDesigner outputs is included as `SelectedOutputs.1.toe`.
 
 ## Noise Circles
 
